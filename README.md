@@ -51,6 +51,9 @@
 
 Clone this repository and open a command prompt in this folder and type `python main.py` and then enter your message and get the prediction. after that press `y` or `n` to check a new message or to exit respectively.
 
+## Picture for referance :
+![pic](https://octodex.github.com/images/yaktocat.png)
+
 <br>
 
 # Warnings 
