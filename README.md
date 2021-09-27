@@ -9,7 +9,7 @@
 
 # Video Link :
 
-## http://github.com - automatic!
+##  Link - automatic!
 [GitHub](http://github.com)  
 
 <br>
