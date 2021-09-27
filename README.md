@@ -9,7 +9,7 @@
 
 # Video Link :
 
-## [Link]()  
+## [Link](https://www.linkedin.com/posts/abhi-nav-b303a6174_training-connections-machinelearnig-activity-6848288508432527360-uxBa)  
 
 <br>
 
