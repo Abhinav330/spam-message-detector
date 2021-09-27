@@ -4,13 +4,21 @@
 
 ##  This is a Mobile Message Spam detector project . A Machine Learning Model is Trained to Predict the entered message is a spam or a Genuine message. 
 
+
+<br>
+
+# Video Link :
+
+## http://github.com - automatic!
+[GitHub](http://github.com)  
+
 <br>
 
 # Files in this Repository :
 
 ## 🟢 main.py :  
 
-####   Main oython file which is shown in the video.
+####   Main python file which is shown in the video.
 
 ## 🟢 x_train.pickle :  
 
