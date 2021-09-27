@@ -9,8 +9,7 @@
 
 # Video Link :
 
-##  Link - automatic!
-[GitHub](http://github.com)  
+[Link](http://github.com)  
 
 <br>
 
